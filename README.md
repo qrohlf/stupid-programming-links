@@ -1,2 +1,13 @@
 # stupid-programming-links
-Stupid Programming Links
+
+## Rants
+
+- [you have ruined javascript](http://codeofrob.com/entries/you-have-ruined-javascript.html)
+- [aRrgh: a newcomer's (angry) guide to R](http://tim-smith.us/arrgh/index.html)
+- [The Wat Talk](https://www.destroyallsoftware.com/talks/wat)
+- [To Wash It All Away](https://www.usenix.org/system/files/1403_02-08_mickens.pdf)
+- [RegEx match open tags except XHTML self-contained tags](http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tag)
+
+## Stupid Comics & Memes
+
+- [How to bluff your way through every conversation about which programming language is best](http://www.qwantz.com/index.php?comic=1786)

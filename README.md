@@ -10,6 +10,7 @@
 
 ## Sarcasm
 - [Git Koans](http://stevelosh.com/blog/2013/04/git-koans/)
+- [Hipster Dev Stack](http://hipsterdevstack.tumblr.com)
 
 ## Comics & Memes
 

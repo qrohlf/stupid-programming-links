@@ -12,6 +12,7 @@
 ## Sarcasm
 - [Git Koans](http://stevelosh.com/blog/2013/04/git-koans/)
 - [Hipster Dev Stack](http://hipsterdevstack.tumblr.com)
+- [If Carpenters Were Hired Like Programmers](http://www.dawood.in/if-carpenters-were-hired-like-programmers/)
 
 ## Comics & Memes
 
